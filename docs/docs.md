@@ -2,17 +2,17 @@
 
 ## Содержание
 
-1. [Модуль `product`](#модуль-product)
+1. [Модуль `main`](#модуль-product)
    - [Класс `Product`](#класс-product)
    - [Класс `Category`](#класс-category)
-2. [Модуль `test_classes`](#модуль-test_classes)
+2. [Модуль `test_main`](#модуль-test_classes)
    - [Фикстуры](#фикстуры)
    - [Тесты класса `Product`](#тесты-класса-product)
    - [Тесты класса `Category`](#тесты-класса-category)
 
 ---
 
-## Модуль `product`
+## Модуль `main`
 
 Модуль содержит классы `Product` и `Category` для работы с товарами и категориями товаров.
 
